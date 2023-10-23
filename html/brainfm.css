@@ -3,7 +3,7 @@ body {
     font-family: 'Segoe UI';     
    }
 .section-1 {
-    background-color: blue;
+    background-color: rgb(60, 45, 230);
     color: white;
     display: flex;
     flex-direction: row;
@@ -38,7 +38,7 @@ a:hover {
     font-size: 7px;
 }
 .section-2 {
-    background-color: blue;
+    background-color: rgb(60, 45, 230);
     color: white;
     display: flex;
     column-gap: 200px;
